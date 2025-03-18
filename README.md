@@ -58,176 +58,26 @@ Things I have experience with:
 - TDD / BDD / Specification by Example ✔️
 ```
 
-#### Projects
+### Projects
 
----
+| Repo | Description |
+| --- | --- |
+| [awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) | I'm a daily PowerToys Run user 🗂️🔎<br />Here are some plugins that I have tried and found awesome |
+| [Community.PowerToys.Run.Plugins](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins) | These are my own PowerToys Run plugins |
+| [github-emoji](https://github.com/hlaueriksson/github-emoji) | I love emoji ❤️<br />Check out the full list of what’s supported on GitHub :octocat: |
+| [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp) | A .NET library for GitHub emoji |
+| [CommandQuery](https://github.com/hlaueriksson/CommandQuery) | Keep your commands and queries separated<br />This is a .NET library for RPC |
+| [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit) | A quirky little test framework<br />This is a .NET library for testing with local functions |
+| [Markupolation](https://github.com/hlaueriksson/Markupolation) | Generate HTML from C# |
+| [jekyll-url-shortener](https://github.com/hlaueriksson/jekyll-url-shortener) | I have built my own URL shortener ✂️🔗<br />You can too with this template repository |
 
-I'm a daily PowerToys Run user 🗂️🔎
+### Contact
 
-Here are some plugins that tickle my fancy:
+I'm a freelance software developer, focusing on ⚙️ .NET 🌐 Web 💳 Payments
 
-- [awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+Hire me:
 
-And for a sprinkle of my own magic:
-
-- [Community.PowerToys.Run.Plugins](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins)
-
-<details>
-
-<summary>View example:</summary>
-
-![Need](Need.png)
-
-- Store things you need, but can't remember
-
-</details>
-
----
-
-I love emoji ❤️
-
-Check out the full list of what’s supported on GitHub:
-
-- [github-emoji](https://github.com/hlaueriksson/github-emoji) :octocat:
-
-Are you a dotnet fan? Give my library a spin:
-
-- [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp)
-
-<details>
-
-<summary>View example:</summary>
-
-```csharp
-":tada: initial commit".Emojify(); // 🎉 initial commit
-```
-
-- C#
-
-```html
-<emoji>:tada: initial commit</emoji>
-```
-
-- ASP.NET Core
-
-```html
-<Emoji>:tada: initial commit</Emoji>
-```
-
-- Blazor
-
-```cmd
-emoji emojify :tada: initial commit
-```
-
-- CLI
-
-![GEmojiSharp](GEmojiSharp.png)
-
-- PowerToys Run
-
-</details>
-
----
-
-Do you keep your commands and queries separated?
-
-Get started with this RPC library of mine:
-
-- [CommandQuery](https://github.com/hlaueriksson/CommandQuery)
-
-<details>
-
-<summary>Support for:</summary>
-
-- AspNetCore 🌐
-- AWSLambda ⚡
-- AzureFunctions ⚡
-- GoogleCloudFunctions ⚡
-
-</details>
-
----
-
-Do you enjoy writing unit tests and are on the lookout for something new?
-
-Check out this quirky little framework:
-
-- [LoFuUnit](https://github.com/hlaueriksson/LoFuUnit)
-
-<details>
-
-<summary>View example:</summary>
-
-```csharp
-public class MoodTests : LoFuTest<MoodIdentifier>
-{
-    string _mood;
-
-    [LoFu, Test]
-    public void Identify_mood_on_mondays()
-    {
-        void given_the_current_day_is_monday()
-        {
-            var monday = new DateTime(2011, 2, 14);
-
-            Use<ISystemClock>()
-                .CurrentTime
-                .Returns(monday);
-        }
-
-        void when_identifying_my_mood() =>
-            _mood = Subject.IdentifyMood();
-
-        void should_be_pretty_bad() =>
-            _mood.Should().Be("Pretty bad");
-    }
-}
-```
-
-</details>
-
----
-
-Do you need markup in the frontend?
-
-Generate some HTML in the backend:
-
-- [Markupolation](https://github.com/hlaueriksson/Markupolation)
-
-<details>
-
-<summary>View example:</summary>
-
-```csharp
-DOCTYPE() +
-html(lang("en"),
-    head(
-        meta(charset("utf-8")),
-        e.title("Markupolation"),
-        meta(name("description"), content("Sample of how to use Markupolation")),
-        meta(name("viewport"), content("width=device-width, initial-scale=1"))
-    ),
-    body(
-        h1("Hello, World!"),
-        p("This is ", mark(a.title("Markup with string interpolation"), "Markupolation"), " in action.")
-    )
-);
-```
-
-</details>
-
----
-
-I have built my own URL shortener, and you can do it too ✂️🔗
-
-Get started with this template repository:
-
-- [jekyll-url-shortener](https://github.com/hlaueriksson/jekyll-url-shortener)
-
----
-
-#### Contact
+- [conductofcode.se](https://conductofcode.se)
 
 Find out more about me:
 
