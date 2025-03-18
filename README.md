@@ -6,10 +6,21 @@ My name is **Henrik Lau Eriksson** 👨‍🦰 and I live in [_Stockholm_](https
 
 I work with:
 
-><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"></code>
-><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="PowerShell" /></code>
+
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title=".NET" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jamstack/jamstack-original.svg" title="Jamstack" /></code>
+
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" title="Rider" /></code>
+
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" /></code>
+><code><img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" /></code>
 
 I write code for the Web 🌐
 
